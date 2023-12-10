@@ -4,8 +4,6 @@
 
 - I’m currently learning **JavaScript, React, Ruby, Ruby on Rails, PostgreSQL**
 
-- Email me @ **duecel@icloud.com**
-
 - Fun fact: **Retired Marine Corps Veteran**
 
 <h3 align="left">Connect with me:</h3>
