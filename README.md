@@ -12,12 +12,12 @@ And I'm a software and web developer diving into the realms of JavaScript, React
 <br/>  
 
 
-## Rapidfire  
+## Info
 <table><tr><td valign="top" width="50%">
 
 
 
-### Currently doing  
+### Current Work/Projects 
 - Working on personalizing a project I worked on with my team at Learn Academy.  
   
 
