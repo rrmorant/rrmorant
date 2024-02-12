@@ -4,10 +4,10 @@
 And I'm a software and web developer diving into the realms of JavaScript, React, Ruby, and Rails. Still a novice at this, but I'm all about the daily grind that will sharpen my skills to to climb that ladder to being better. Stick around, because this journey's just getting started. 🙏🏽  
   
 
-<a href="https://github.com/https://github.com/rrmorant" target="_blank">
+<a href="https://github.com/rrmorant" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ronmorant/" target="_blank">
+<a href="https://linkedin.com/in/ronmorant" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
   
