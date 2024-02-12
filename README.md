@@ -18,13 +18,22 @@ And I'm a software and web developer diving into the realms of JavaScript, React
 
 
 ### Currently doing  
--  I’m currently working on personalizing a project I worked on with my team at Learn Academy  
+- Working on personalizing a project I worked on with my team at Learn Academy.  
   
 
-- I’m working on small projects that are features specific  
+- Working on small projects that are features specific.  
   
 
-- Updating portfolio  
+
+
+### Fun Fact(s) About Me  
+- Retired from the Marine Corps in 2022 after serving 20 years.  
+  
+
+
+
+### Quote for the time being...  
+"The journey of a thousand miles begins with a single step." - Lao Tzu  
 
 
 </td><td valign="top" width="50%">
