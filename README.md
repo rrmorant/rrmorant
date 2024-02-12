@@ -4,9 +4,6 @@
 And I'm a software and web developer diving into the realms of JavaScript, React, Ruby, and Rails. Still a novice at this, but I'm all about the daily grind that will sharpen my skills to to climb that ladder to being better. Stick around, because this journey's just getting started. 🙏🏽  
   
 
-<a href="https://github.com/rrmorant" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/ronmorant" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
@@ -18,18 +15,21 @@ And I'm a software and web developer diving into the realms of JavaScript, React
 ## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
+
+
+### Currently doing  
 -  I’m currently working on personalizing a project I worked on with my team at Learn Academy  
   
 
 - I’m working on small projects that are features specific  
   
 
-- ⚡ I retired from the Marine Corps after 20 years of being a vehicle technician and chose software and web development as a new career.  
+- Updating portfolio  
 
 
 </td><td valign="top" width="50%">
 
-
+![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=duecel&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)
 
 </td></tr></table>  
 
