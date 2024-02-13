@@ -1,7 +1,7 @@
-## ✌🏽 & Blessings and Welcome! I'm Ron Morant...  
+## ✌🏽 & Blessings! I'm Ron...  
   
 
-And I'm a software and web developer diving into the realms of JavaScript, React, Ruby, and Rails. Still a novice at this, but I'm all about the daily grind that will sharpen my skills to to climb that ladder to being better. Stick around, because this journey's just getting started. 🙏🏽  
+And I develop in JavaScript, React, Ruby, and Rails.
   
 
 <a href="https://linkedin.com/in/ronmorant" target="_blank">
