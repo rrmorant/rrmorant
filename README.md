@@ -38,7 +38,7 @@ And I develop in JavaScript, React, Ruby, and Rails.
 
 </td><td valign="top" width="50%">
 
-![Listening to on Spotify](https://spotify-github-profile.vercel.app/api/view?uid=duecel&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=duecel&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 </td></tr></table>  
 
