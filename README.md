@@ -18,9 +18,6 @@ And I develop in JavaScript, React, Ruby, and Rails.
 
 
 ### Current Work/Projects 
-- Working on personalizing a project I worked on with my team at Learn Academy.  
-  
-
 - Working on small projects that are features specific.  
   
 
